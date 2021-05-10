@@ -8,4 +8,4 @@
   If you end up back at the starting point, it means that no route exists. 
   If one does, then you will find it.
 
-The same program can be rewritten easily to work on the graph as an input: graph.c .
+The same program can be rewritten easily to work on the graph as an input: graph.c (https://github.com/Khusheenamdeo/Navigating-a-maze/blob/ba8b4b97617bad072352aa298d5b849bd1de5179/graph.c ).
